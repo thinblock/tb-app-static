@@ -1,0 +1,110 @@
+.signin-form {
+  width: 750px;
+  height: 1624px;
+  background-color: #f4f6f9;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  background-color: #1d1d27;
+  color: #ffffff;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: Montserrat;
+  letter-spacing: 3px;
+  line-height: 20px;
+  font-size: 27px;
+  text-transform: uppercase;
+  padding-top: 110px;
+  padding-bottom: 50px;
+}
+
+
+.confirm-text {
+  margin-top: 149px;
+  margin-bottom: 64px;
+  margin-left: 93px;
+  margin-right: 93px;
+  font-size: 27px;
+  opacity: 0.7;
+  font-family: Montserrat;
+  font-size: 27px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: -0.3px;
+  text-align: center;
+  color: #6c7b8a;
+}
+
+.trouble-text {
+  margin-top: 149px;
+  margin-bottom: 28px;
+  margin-left: 93px;
+  margin-right: 93px;
+  font-size: 27px;
+  opacity: 0.7;
+  font-family: Montserrat;
+  font-size: 27px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: -0.3px;
+  text-align: center;
+  color: #6c7b8a;
+}
+
+#form {
+  display: inline;
+  margin-left: 80px;
+  margin-right: auto;
+}
+
+input {
+  width: 85px;
+  height: 120px;
+  border-radius: 10px;
+  border: solid 1px #ffffff;
+  margin: 3px;
+  font-family: Montserrat;
+  font-size: 60px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.83;
+  text-align: center;
+  background-color: #ffffff;
+
+}
+
+
+.btn {
+  width: 630px;
+  border-radius: 100px;
+  background-image: linear-gradient(279deg, #645aff, #a573ff);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 108px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  letter-spacing: 3px;
+  font-family: Montserrat;
+  cursor: pointer;
+  padding-top: 36.5px;
+  padding-bottom: 36.5px;
+  text-transform: uppercase;
+}
+
+
+.number-keyboard-img {
+  width: 750px;
+  height: 490px;
+  -webkit-backdrop-filter: blur(16.2px);
+  backdrop-filter: blur(16.2px);
+  background-color: rgba(20, 15, 38, 0.65);
+}
