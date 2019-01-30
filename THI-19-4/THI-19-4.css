@@ -15,7 +15,7 @@
   font-family: Montserrat;
   letter-spacing: 3px;
   line-height: 20px;
-  font-size: 27px;
+  font-size: 26px;
   text-transform: uppercase;
   padding-top: 110px;
   padding-bottom: 50px;
@@ -33,7 +33,8 @@
 }
 
 .btn {
-  width: 630px;
+  width: 585px;
+  height: 28px;
   border-radius: 100px;
   background-image: linear-gradient(279deg, #645aff, #a573ff);
   margin-left: auto;
@@ -67,7 +68,7 @@
   margin-bottom: 310px;
 }
 
-.popUp {
+.invalid-message {
   width: 710px;
   background-color: #ff3a79;
   padding-left: 40px;

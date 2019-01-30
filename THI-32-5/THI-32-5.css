@@ -12,8 +12,8 @@
   color: #3b3b4d;
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 70px;
-  padding-bottom: 30px;
+  padding-top: 65px;
+  padding-bottom: 25px;
   display: flex;
   justify-content: space-between;
 }
@@ -192,9 +192,9 @@ label {
   background-color: rgba(20, 15, 38, 0.65);
   margin-left: auto;
   margin-right: auto;
-  margin-top: 33px;
+  margin-top: 24px;
   text-align: center;
-  font-size: 27px;
+  font-size: 25px;
   color: #ffffff;
   letter-spacing: 3px;
   font-family: Montserrat;
